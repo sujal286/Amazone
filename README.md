@@ -1,7 +1,7 @@
 
 # Amazone-Homepage
 
-it my first project using html and css to clone the homepage of amazone.it is a static page.
+It my first project using html and css to clone the homepage of amazone.It is a static page.
 
 
 
